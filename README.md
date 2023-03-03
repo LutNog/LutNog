@@ -1,8 +1,8 @@
   ## Welcome to my GitHub profile
 
-- 👋 Hi, I’m @LutNog
+- 👋 Hi, I’m Lutier Nogueira
 
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in Data Analystics
 
 - 🌱 I’m currently learning 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
