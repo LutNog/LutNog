@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Lutier Nogueira
 - I’m interested in Data Analystics
-- I’m currently learning Python, SQL and R           
+- I’m currently learning Python, SQL, AWS and R           
 - I’m looking to collaborate on Data
  
 
